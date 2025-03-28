@@ -1,0 +1,49 @@
+Name:	com.oacia.apk_protect
+Umask:	0077
+State:	S (sleeping)
+Tgid:	4292
+Ngid:	0
+Pid:	10396
+PPid:	983
+TracerPid:	0
+Uid:	10128	10128	10128	10128
+Gid:	10128	10128	10128	10128
+FDSize:	128
+Groups:	1077 3001 3002 3003 9997 20128 50128 
+VmPeak:	15660588 kB
+VmSize:	15507660 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	  225384 kB
+VmRSS:	  192468 kB
+RssAnon:	   77532 kB
+RssFile:	  112964 kB
+RssShmem:	    1972 kB
+VmData:	 1804456 kB
+VmStk:	    8192 kB
+VmExe:	      12 kB
+VmLib:	  151840 kB
+VmPTE:	    1280 kB
+VmSwap:	    1260 kB
+CoreDumping:	0
+Threads:	20
+SigQ:	0/28556
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000080001204
+SigIgn:	0000000000000001
+SigCgt:	0000006e400084f8
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	0000000000000000
+CapAmb:	0000000000000000
+NoNewPrivs:	0
+Seccomp:	2
+Speculation_Store_Bypass:	thread vulnerable
+Cpus_allowed:	30
+Cpus_allowed_list:	4-5
+Mems_allowed:	1
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	581
+nonvoluntary_ctxt_switches:	349
